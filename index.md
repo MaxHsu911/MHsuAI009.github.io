@@ -3,4 +3,5 @@
 ## 訓練期間:2023/10/05~2024/0402
 ## 訓練課程:AI
 
-https://tw.piliapp.com/random/dice/
+
+[My favorite search engine is this](https://tw.piliapp.com/random/dice/)
