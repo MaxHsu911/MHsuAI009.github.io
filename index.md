@@ -4,4 +4,4 @@
 ## 訓練課程:AI
 
 
-[My favorite search engine is this](https://tw.piliapp.com/random/dice/)
+(My favorite website is this)[https://tw.piliapp.com/random/dice/]
